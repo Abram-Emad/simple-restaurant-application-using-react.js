@@ -1,0 +1,39 @@
+{
+  "name": "simple-restaurant-application-using-react.js",
+  "version": "1.0.0",
+  "description": "simple-restaurant-application-using-react.js",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "axios": "^1.7.8",
+    "bootstrap": "^5.3.3",
+    "fortawesome": "^0.0.1-security",
+    "joi": "^17.13.3",
+    "joi-browser": "^13.4.0",
+    "query-string": "^9.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^10.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

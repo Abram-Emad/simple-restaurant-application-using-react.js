@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "price": 30,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": "2",
+      "name": "Fries",
+      "price": 20,
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "name": "Cola",
+      "price": "9",
+      "count": 0,
+      "isInCart": false,
+      "id": "3"
+    },
+    {
+      "id": "da9e",
+      "name": "Abram-Emad",
+      "price": "7",
+      "count": 0,
+      "isInCart": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    },
+    {
+      "id": "bb76",
+      "username": "g",
+      "password": "admin123"
+    },
+    {
+      "id": "57eb",
+      "username": "52019007",
+      "password": "666666"
+    },
+    {
+      "id": "93a7",
+      "username": "hhhhhhhh",
+      "password": "admin123"
+    },
+    {
+      "id": "a2b3",
+      "username": "52019066",
+      "password": "admin123"
+    }
+  ]
+}
