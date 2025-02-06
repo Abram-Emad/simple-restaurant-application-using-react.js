@@ -5,7 +5,6 @@
 
 A modern web-based restaurant application built with React.js for browsing menus, managing orders, and handling customer interactions.
 
-**Live Demo**: [View on GitHub Pages](https://abram-emad.github.io/simple-restaurant-application-using-react.js/)  
 **Repository**: [GitHub Link](https://github.com/Abram-Emad/simple-restaurant-application-using-react.js)
 
 ---
